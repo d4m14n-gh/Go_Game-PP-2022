@@ -1,0 +1,14 @@
+﻿  Go.cpp
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(501,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(647,80): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(649,35): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(655,36): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(657,34): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(666,55): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(668,37): warning C4309: "argument": obcięcie stałej wartości
+  Trwa generowanie kodu
+  1 of 82 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Go.vcxproj -> C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\x64\Release\Go.exe

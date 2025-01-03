@@ -1,0 +1,9 @@
+﻿  Go.cpp
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(480,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(623,80): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(625,35): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(631,36): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(633,34): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(642,55): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(644,37): warning C4309: "argument": obcięcie stałej wartości
+  Go.vcxproj -> C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Debug\Go.exe
