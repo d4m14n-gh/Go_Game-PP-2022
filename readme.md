@@ -1,4 +1,4 @@
-# Go - console game
+# Go - Console game
 ![Adobe Express - file](https://github.com/user-attachments/assets/c2f6a341-d5dc-48ab-b62d-d958a7fab33a)
 [Go game (Wikipedia)](https://en.wikipedia.org/wiki/Go_(game))
 
