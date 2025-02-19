@@ -5,7 +5,7 @@
 ## Installation
 
 **Releases**:
-- [Latest](https://github.com/D4M14N20/GO-PP22/releases/latest)
+- [Latest](https://github.com/D4M14N20/GO-PP2022/releases/latest)
 
 **Binaries**:
 - [Latest windows-x86](https://github.com/D4M14N20/GO-PP22/releases/download/v0.1.0/Go_win32.exe)
@@ -13,6 +13,8 @@
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 
 
 
