@@ -15,7 +15,7 @@ The project uses the "conio2" library by K.M. Ocetkiewicz.
 **Releases**:
 - [Latest release](https://github.com/D4M14N20/GO-PP2022/releases/latest)
 
-**Binaries**:
+**Binaries (standalone executables)**:
 - [Latest windows-x64](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win64.exe) (preferred)
 - [Latest windows-x86](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win32.exe)
 
