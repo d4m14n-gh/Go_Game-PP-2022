@@ -3,7 +3,9 @@
 
 ## 📜 About the Project
 Japanese GO game for two players implemented in C/C++.
-Developed as a first-semester university project (part of the course Podstawy Programowania at the Gdańsk University of Technology). Supports two-player mode, basic rule enforcement, saves and different board sizes. The project uses "conio2" library by K.M. Ocetkiewicz.
+Developed as a first-semester university project (part of the course Podstawy Programowania at the Gdańsk University of Technology). 
+Supports two-player mode, basic rule enforcement, save functionality and different board sizes. 
+The project uses the "conio2" library by K.M. Ocetkiewicz.
 
 **About the game:**
 [Go (Wikipedia)](https://en.wikipedia.org/wiki/Go_(game))
@@ -14,13 +16,13 @@ Developed as a first-semester university project (part of the course Podstawy Pr
 - [Latest](https://github.com/D4M14N20/GO-PP2022/releases/latest)
 
 **Binaries**:
-- [Latest windows-x64](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win64.exe) (preffered)
+- [Latest windows-x64](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win64.exe) (preferred)
 - [Latest windows-x86](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win32.exe)
 
 **Steps**
-- Download a standalone binary ⬆️ (alternatively, download the source code and compile it manually)
-- Put the binary in destination directory
-- Run the binary (_⚠️Windows should display microsoft defender window for the first time (click: more info > run anyway)_)
+- Download a standalone binary ⬆️ (alternatively, download the source code and compile it manually).
+- Place the binary in destination directory.
+- Run the binary (_⚠️The first time you run it, Windows Defender will display a security warning (click: more info > run anyway)._).
 
 ## 👥 Authors
 - [@D4M14N20](https://github.com/D4M14N20)
