@@ -9,8 +9,10 @@
 
 **Binaries**:
 - [Latest windows-x86](https://github.com/D4M14N20/GO-PP22/releases/download/v0.1.0/Go_win32.exe)
-- [Latest widnows-x64](https://github.com/D4M14N20/GO-PP22/releases/download/v0.1.0/Go_win64.exe)
+- [Latest windows-x64](https://github.com/D4M14N20/GO-PP22/releases/download/v0.1.0/Go_win64.exe)
 
-## Usage
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
