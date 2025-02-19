@@ -22,7 +22,7 @@ The project uses the "conio2" library by K.M. Ocetkiewicz.
 **Steps**
 - Download a standalone binary ⬆️ (alternatively, download the source code and compile it manually).
 - Place the binary in destination directory.
-- Run the binary (_⚠️The first time you run it, Windows Defender will display a security warning (click: more info > run anyway)._).
+- Run the binary (_⚠️The first time you run it, Windows Defender will display a security warning (click: more info > run anyway)_).
 
 ## 👥 Authors
 - [@D4M14N20](https://github.com/D4M14N20)
