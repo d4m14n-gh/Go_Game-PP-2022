@@ -1,0 +1,14 @@
+﻿  conio2.cpp
+  Go.cpp
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(501,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(647,80): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(649,35): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(655,36): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(657,34): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(666,55): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Go\Go.cpp(668,37): warning C4309: "argument": obcięcie stałej wartości
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 53 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Go.vcxproj -> C:\Users\damia\Documents\Projekty\MakeGoGreatAgain\Go\Release\Go.exe
