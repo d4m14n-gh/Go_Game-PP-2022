@@ -14,11 +14,11 @@ The project uses the "conio2" library by K.M. Ocetkiewicz.
 
 ## 📥 Installation (Windows only)
 **Releases**:
-- [Latest release](https://github.com/D4M14N20/GO-PP2022/releases/latest)
+- [Latest release](https://github.com/D4M14N-GH/GO-PP2022/releases/latest)
   
 **Binaries (standalone executables)**:
-- [Latest windows-x64](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win64.exe) (preferred)
-- [Latest windows-x86](https://github.com/D4M14N20/GO-PP22/releases/latest/download/Go_win32.exe)
+- [Latest windows-x64](https://github.com/D4M14N-GH/GO-PP22/releases/latest/download/Go_win64.exe) (preferred)
+- [Latest windows-x86](https://github.com/D4M14N-GH/GO-PP22/releases/latest/download/Go_win32.exe)
   
 **Steps**
 - Download a standalone binary ⬆️ (alternatively, download the source code and compile it manually).
@@ -27,7 +27,7 @@ The project uses the "conio2" library by K.M. Ocetkiewicz.
 
 
 ## 👥 Authors
-- [@D4M14N20](https://github.com/D4M14N20)
+- [@D4M14N-GH](https://github.com/D4M14N-GH)
 
 
 ## ⚖️License
